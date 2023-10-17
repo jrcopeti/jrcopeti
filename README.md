@@ -17,41 +17,17 @@ I recently graduated from a web dev bootcamp at Le Wagon Berlin and my journey h
 I am actively looking for opportunities as a frontend developer, with a keen interest in roles utilizing React. I'm enthusiastic about contributing to meaningful projects and collaborating with teams that drive innovation.
 
 ## 🔧 Stack
+![](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=plastic&logo=ruby-on-rails&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
-## 🔧 Technologies & Tools
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="URL_FOR_REACT_LOGO" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="URL_FOR_JAVASCRIPT_LOGO" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank"> 
-    <img src="URL_FOR_RUBY_LOGO" alt="Ruby" width="40" height="40"/> 
-  </a>
-  <a href="https://rubyonrails.org/" target="_blank"> 
-    <img src="URL_FOR_RAILS_LOGO" alt="Ruby on Rails" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> 
-    <img src="URL_FOR_HTML5_LOGO" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-    <img src="URL_FOR_CSS3_LOGO" alt="CSS3" width="40" height="40"/> 
-  </a>
-  <a href="https://sass-lang.com/" target="_blank"> 
-    <img src="URL_FOR_SASS_LOGO" alt="Sass" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="URL_FOR_POSTGRESQL_LOGO" alt="PostgreSQL" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="URL_FOR_GIT_LOGO" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="URL_FOR_VSCODE_LOGO" alt="VS Code" width="40" height="40"/> 
-  </a>
-</p>
 ---
 
-###📩 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/josecopeti/), via [email](mailto:jrcopeti@gmail.com), or here on GitHub 😊
+### 📩 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/josecopeti/), via [email](mailto:jrcopeti@gmail.com), or here on GitHub 😊
