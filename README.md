@@ -30,4 +30,4 @@ I am actively looking for opportunities as a frontend developer, with a keen int
 
 ---
 
-### 📩 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/josecopeti/), via [email](mailto:jrcopeti@gmail.com), or here on GitHub 😊
+### 📩 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/josecopeti/), email - jrcopeti@gmail.com, or here on GitHub 😊
