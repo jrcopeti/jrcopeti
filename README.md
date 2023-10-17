@@ -17,10 +17,41 @@ I recently graduated from a web dev bootcamp at Le Wagon Berlin and my journey h
 I am actively looking for opportunities as a frontend developer, with a keen interest in roles utilizing React. I'm enthusiastic about contributing to meaningful projects and collaborating with teams that drive innovation.
 
 ## 🔧 Stack
-<img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="40" height="40"/> 
-<img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/> 
 
+## 🔧 Technologies & Tools
 
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="URL_FOR_REACT_LOGO" alt="React" width="40" height="40"/> 
+  </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="URL_FOR_JAVASCRIPT_LOGO" alt="JavaScript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank"> 
+    <img src="URL_FOR_RUBY_LOGO" alt="Ruby" width="40" height="40"/> 
+  </a>
+  <a href="https://rubyonrails.org/" target="_blank"> 
+    <img src="URL_FOR_RAILS_LOGO" alt="Ruby on Rails" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> 
+    <img src="URL_FOR_HTML5_LOGO" alt="HTML5" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img src="URL_FOR_CSS3_LOGO" alt="CSS3" width="40" height="40"/> 
+  </a>
+  <a href="https://sass-lang.com/" target="_blank"> 
+    <img src="URL_FOR_SASS_LOGO" alt="Sass" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="URL_FOR_POSTGRESQL_LOGO" alt="PostgreSQL" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="URL_FOR_GIT_LOGO" alt="Git" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="URL_FOR_VSCODE_LOGO" alt="VS Code" width="40" height="40"/> 
+  </a>
+</p>
 ---
 
-📩 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/josecopeti/), via [email](mailto:jrcopeti@gmail.com), or here on GitHub 😊
+###📩 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/josecopeti/), via [email](mailto:jrcopeti@gmail.com), or here on GitHub 😊
