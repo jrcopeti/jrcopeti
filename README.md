@@ -1,4 +1,4 @@
-# Heeeya I'm José 👋
+# Hey I'm José 👋
 
 Full stack web developer diving deep into frontend technologies, such as JS and React.
 
