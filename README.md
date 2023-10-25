@@ -4,7 +4,7 @@ Full stack web developer diving deep into frontend technologies, such as JS and 
 
 ## 🎓 Teaching Assistant @Le Wagon Berlin
 
-I recently graduated from a web dev bootcamp at Le Wagon Berlin and my journey has allowed me to not only absorb new knowledge, but also share it. 
+Graduated from a web dev bootcamp at Le Wagon Berlin, my journey has allowed me to not only absorb new knowledge, but also share it. 
 
 ## 📘 Latest Courses
 
