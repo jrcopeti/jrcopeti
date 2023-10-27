@@ -1,22 +1,22 @@
-# Hey I'm José 👋
+# Hey I'm José 
 
-Full stack web developer diving deep into frontend technologies, such as JS and React.
+Full stack web developer diving deep into techinogies such as JS and React.
 
-## 🎓 Teaching Assistant @Le Wagon Berlin
+## Teaching Assistant @Le Wagon Berlin
 
 Graduated from a web dev bootcamp at Le Wagon Berlin, my journey has allowed me to not only absorb new knowledge, but also share it. 
 
-## 📘 Latest Courses
+## Latest Courses
 
-- 🎉 Just finished the "Complete JavaScript Course 2023" - expanding my expertise in JavaScript, enhancing my skills in creating rich web interfaces.
+- 🚀 Currently undertaking "The Ultimate React Course 2023" 
 
-- 🚀 Currently undertaking "The Ultimate React Course 2023" to master frontend development and produce efficient, modern web applications.
+-"The Complete JavaScript Course 2023", finished in October.2023
 
-## 🚀 Open to Work
+## Open to Work
 
-I am actively looking for opportunities as a frontend developer, with a keen interest in roles utilizing React. I'm enthusiastic about contributing to meaningful projects and collaborating with teams that drive innovation.
+I am actively looking for opportunities as a full stack or frontend developer, with a keen interest in roles utilizing Javascript/Typescript and React. I'm enthusiastic about contributing to meaningful projects and collaborating with teams that drive innovation.
 
-## 🔧 Stack
+## Stack
 ![](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white)
@@ -30,4 +30,4 @@ I am actively looking for opportunities as a frontend developer, with a keen int
 
 ---
 
-### 📩 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/josecopeti/), email - jrcopeti@gmail.com, or here on GitHub 😊
+### 📩 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/josecopeti/), email - jrcopeti@gmail.com, or here on GitHub 
