@@ -1,6 +1,7 @@
 # Hey I'm José 
 
-Full stack web developer diving deep into techinogies such as JS and React.
+Full stack web developer diving deep into technologies such as JS and React.
+While I initially started my programming journey with backend development using Ruby and Rails, I later switched to frontend, where I felt more comfortable and actually seek proficiency in building projects.
 
 ## Teaching Assistant @Le Wagon Berlin
 
@@ -8,13 +9,14 @@ Graduated from a web dev bootcamp at Le Wagon Berlin, my journey has allowed me 
 
 ## Latest Courses
 
-- 🚀 Currently undertaking "The Ultimate React Course 2023" 
+- Currently undertaking "The Ultimate React Course 2023" 
 
--"The Complete JavaScript Course 2023", finished in October.2023
+- "The Complete JavaScript Course 2023", finished in October.2023
 
 ## Open to Work
 
-I am actively looking for opportunities as a full stack or frontend developer, with a keen interest in roles utilizing Javascript/Typescript and React. I'm enthusiastic about contributing to meaningful projects and collaborating with teams that drive innovation.
+I'm actively looking for a Frontend or Full Stack role with focus on Frontend development. My primary interests lie in languages like JavaScript and TypeScript, using libraries such as React and interested in expading my skill set to other frameworks.
+I am deeply dedicated to my craft, having found a right calling in programming. My aspiration is to contribute to a team within a company where we collaboratively develop exceptional products.
 
 ## Stack
 ![](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
