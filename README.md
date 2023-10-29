@@ -1,11 +1,11 @@
 # Hey I'm José 
 
 Full stack web developer diving deep into technologies such as JS and React.
-While I initially started my programming journey with backend development using Ruby and Rails, I later switched to frontend, where I felt more comfortable and actually seek proficiency in building projects.
+While I initially started my programming journey with backend development using Ruby and Rails, I later switched to frontend, where I felt more comfortable and where I seek proficiency.
 
 ## Teaching Assistant @Le Wagon Berlin
 
-Graduated from a web dev bootcamp at Le Wagon Berlin, my journey has allowed me to not only absorb new knowledge, but also share it. 
+Graduated from the web development bootcamp at Le Wagon Berlin, my journey has allowed me to not only absorb new knowledge, but also share it. 
 
 ## Latest Courses
 
@@ -15,7 +15,7 @@ Graduated from a web dev bootcamp at Le Wagon Berlin, my journey has allowed me 
 
 ## Open to Work
 
-I'm actively looking for a Frontend or Full Stack role with focus on Frontend development. My primary interests lie in languages like JavaScript and TypeScript, using libraries such as React and interested in expading my skill set to other frameworks.
+I'm actively looking for a Frontend or Full Stack role with focus on Frontend development. My primary interests lie in languages like JavaScript and TypeScript, using libraries such as React, but also interested in expading my skill set to other frameworks.
 I am deeply dedicated to my craft, having found a right calling in programming. My aspiration is to contribute to a team within a company where we collaboratively develop exceptional products.
 
 ## Stack
