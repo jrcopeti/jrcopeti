@@ -5,7 +5,7 @@ While I initially started my programming journey with backend development using 
 
 ## Teaching Assistant @Le Wagon Berlin
 
-Graduated from the web development bootcamp at Le Wagon Berlin, my journey has allowed me to not only absorb new knowledge, but also share it. 
+Graduated in web development at Le Wagon Berlin, my journey has allowed me to not only absorb new knowledge, but also share it. 
 
 ## Latest Courses
 
@@ -15,8 +15,8 @@ Graduated from the web development bootcamp at Le Wagon Berlin, my journey has a
 
 ## Open to Work
 
-I'm actively looking for a Frontend or Full Stack role with focus on Frontend development. My primary interests lie in languages like JavaScript and TypeScript, using libraries such as React, but also interested in expading my skill set to other frameworks.
-I am deeply dedicated to my craft, having found a right calling in programming. My aspiration is to contribute to a team within a company where we collaboratively develop exceptional products.
+I'm actively looking for a Frontend or Full Stack role with focus on Frontend development. My primary interests lie in languages like JavaScript and TypeScript, using  React, but also interested in expading my skill set to other frameworks.
+I am deeply dedicated to programming at the moment, having found a right calling in it. My aspiration is to contribute to a team within a company where we collaboratively develop exceptional products.
 
 ## Stack
 ![](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
