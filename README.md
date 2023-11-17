@@ -15,8 +15,8 @@ Graduated in web development at Le Wagon Berlin, my journey has allowed me to no
 
 ## Open to Work
 
-I'm actively looking for a Frontend or Full Stack role with focus on Frontend development. My primary interests lie in languages like JavaScript and TypeScript, using  React, but also interested in expading my skill set to other frameworks.
-I am deeply dedicated to programming at the moment, having found a right calling in it. My aspiration is to contribute to a team within a company where we collaboratively develop exceptional products.
+I'm actively looking for a Frontend or Full Stack role. At the moment I'm working more with languages such as JavaScript and TypeScript, using  React, but also have great interest in expading my skill set to other frameworks.
+I am deeply dedicated to programming at the moment, having found a right calling in it. My aspiration is to contribute to a team where we collaboratively develop exceptional products.
 
 ## Stack
 ![](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
