@@ -1,7 +1,7 @@
 # Hey I'm José 
 
 Full stack web developer diving deep into technologies such as JS and React.
-While I initially started my programming journey with backend development using Ruby and Rails, I later switched to frontend, where I felt more comfortable and where I seek proficiency.
+While I initially started my programming journey with backend development using Ruby and Ruby on Rails, I later switched to frontend, where I feel more comfortable.
 
 ## Teaching Assistant @Le Wagon Berlin
 
