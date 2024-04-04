@@ -19,7 +19,11 @@ Graduated in web development at Le Wagon Berlin, my journey has allowed me to no
 
 ## Latest Courses
 
-- "Next JS: The Complete Developer's Guide" by Stephen Grider on Udemy, ongoing"
+- Understanding TypeScript by Maximilian Schwarzermüller, Ongoing"
+
+- "Next JS and OpenAI, by John Smilga, March.2024"
+
+- "Next JS: The Complete Developer's Guide" by Stephen Grider on Udemy, March.2024"
 
 - "The Ultimate React Course 2024" by Jonas Schmedtmann on Udemy, finished in February.2024
 
@@ -35,10 +39,10 @@ My goal is to join a team where I can grow and learn from others, while also con
 
 ## Stack
 
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,6 +56,10 @@ My goal is to join a team where I can grow and learn from others, while also con
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![](https://img.shields.io/badge/OpenAi-12000?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/DaisyUI-2B6CB0?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
