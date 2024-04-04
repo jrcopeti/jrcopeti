@@ -59,6 +59,7 @@ My goal is to join a team where I can grow and learn from others, while also con
 ![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![](https://img.shields.io/badge/OpenAi-12000?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/DaisyUI-2B6CB0?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
