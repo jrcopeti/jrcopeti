@@ -19,7 +19,7 @@ Graduated in web development at Le Wagon Berlin, my journey has allowed me to no
 
 ## Latest Courses
 
-- Understanding TypeScript by Maximilian Schwarzermüller, Ongoing"
+- "Understanding TypeScript by Maximilian Schwarzermüller, Ongoing"
 
 - "Next JS and OpenAI, by John Smilga, March.2024"
 
