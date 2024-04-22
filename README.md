@@ -1,6 +1,6 @@
 # Hey I'm José
 
-Frontend web developer diving deep into technologies such as JavaScript, TypeScript, React and Next.js.
+Frontend web developer diving deep into JavaScript, TypeScript, React and Next.js.
 
 While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling.
 
