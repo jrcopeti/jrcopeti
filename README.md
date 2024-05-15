@@ -30,7 +30,7 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [jrcopeti@gmail.com](mailto:jrcopeti@gmail.com)
-* 🚀  I'm currently working on [Trip-AI](http://trip-ai-weld.vercel.app/)
+* 🚀  I'm currently working on [Lofft](https://github.com/LofftApp) and [My Portfolio](https://github.com/jrcopeti/portfolio)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on diverse projects
 * ⚡  Good at the gym, great at videogames, awesome at the kitchen.
