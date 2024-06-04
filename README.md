@@ -84,3 +84,6 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 <a href="http://www.github.com/jrcopeti"><img src="https://github-readme-stats.vercel.app/api?username=jrcopeti&show_icons=true&hide=issues,contribs&count_private=true&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="jrcopeti's GitHub stats" /></a>
 
 <a href="http://www.github.com/jrcopeti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jrcopeti&stroke=000000&background=ffffff&ring=10b981&fire=10b981&currStreakNum=000000&currStreakLabel=10b981&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+![](https://komarev.com/ghpvc/?username=jrcopeti&color=green)
+
