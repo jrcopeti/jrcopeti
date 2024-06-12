@@ -4,6 +4,9 @@ Hi 👋🏻 My name is José Copeti
 Frontend Developer. Teacher.
 ----------------------------
 
+Visit my blog - https://jrcopeti.hashnode.dev/
+----------------------------
+
 Frontend web developer diving deep into JavaScript, TypeScript, React and Next.js. While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling. 
 
 With a diverse background - including a degree in Communcation and marketing, and the experience of owning a business in the hospitality industry - I bring a distinctive perspective to the table. This experience has allowed me to understand the importance of strategic design for user engagement and the impact of technology on businesses. 
@@ -20,7 +23,7 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 
 ### Latest certificates
 
-- "Understanding TypeScript by Maximilian Schwarzermüller, Ongoing"
+- "Understanding TypeScript by Maximilian Schwarzermüller"
 - "Next JS and OpenAI, by John Smilga, March.2024"
 - "Next JS: The Complete Developer's Guide" by Stephen Grider on Udemy, March.2024"
 - "The Ultimate React Course 2024" by Jonas Schmedtmann on Udemy, finished in February.2024
@@ -41,9 +44,11 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/React_Native-62DAFB?style=for-the-badge&logo=reactnative&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -58,7 +63,6 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 ![](https://img.shields.io/badge/OpenAi-12000?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/DaisyUI-2B6CB0?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -77,15 +81,22 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/jrcopeti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jrcopeti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/josecopeti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://codesandbox.io/u/jrcopeti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/jrcopeti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jrcopeti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://jrcopeti.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/josecopeti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 
 ### My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcopeti)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="http://www.github.com/jrcopeti"><img src="https://github-readme-stats.vercel.app/api?username=jrcopeti&show_icons=true&hide=issues,contribs&count_private=true&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="jrcopeti's GitHub stats" /></a>
+<a href="http://www.github.com/jrcopeti"><img src="https://github-readme-stats.vercel.app/api?username=jrcopeti&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="jrcopeti's GitHub stats" /></a>
 
 <a href="http://www.github.com/jrcopeti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jrcopeti&stroke=000000&background=ffffff&ring=10b981&fire=10b981&currStreakNum=000000&currStreakLabel=10b981&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 ![](https://komarev.com/ghpvc/?username=jrcopeti&color=green)
+
+### Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/jrcopeti/trip-ai" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jrcopeti&repo=trip-ai&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/jrcopeti/react-cabin-hub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jrcopeti&repo=react-cabin-hub&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/jrcopeti/worldwise" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jrcopeti&repo=worldwise&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/jrcopeti/nextjs-gpt-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jrcopeti&repo=nextjs-gpt-app&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 
