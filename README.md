@@ -91,12 +91,3 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 <a href="http://www.github.com/jrcopeti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jrcopeti&stroke=000000&background=ffffff&ring=10b981&fire=10b981&currStreakNum=000000&currStreakLabel=10b981&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 ![](https://komarev.com/ghpvc/?username=jrcopeti&color=green)
-
-### Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/jrcopeti/trip-ai" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jrcopeti&repo=trip-ai&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/jrcopeti/react-cabin-hub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jrcopeti&repo=react-cabin-hub&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/jrcopeti/worldwise" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jrcopeti&repo=worldwise&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/jrcopeti/nextjs-gpt-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jrcopeti&repo=nextjs-gpt-app&title_color=10b981&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
-
