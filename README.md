@@ -13,11 +13,9 @@ With a diverse background - including a degree in Communcation and marketing, an
 
 I really like to create beautiful and functional web applications that resonates with the intended audience, and I am looking for new challenges and opportunities to grow.
 
-I'm currently working as freelancer teacher at Le Wagon Berlin. Graduated in web development at the same institution, my journey has allowed me to not only absorb new knowledge, but also share it. 
-
 ### Open to work
 
-I'm actively looking for a Frontend or Fullstack role. At the moment, I'm working with languages such as JavaScript and TypeScript, using React, but also have great interest in expading my skill set to other languages and frameworks. 
+I'm actively looking for a Frontend or Fullstack role. At the moment, I'm working with languages such as TypeScript, using React, but also have great interest in expading my skill set to other languages and frameworks. 
 
 I am deeply dedicated to programming and am thrilled to continue my journey in the tech industry. My goal is to join a team where I can grow and learn from others, while also contributing with my own knowledge and experience. 
 
@@ -31,7 +29,7 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 
 ### Contact me
 
-* 🌍  I'm based in Berlin
+* 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [jrcopeti@gmail.com](mailto:jrcopeti@gmail.com)
 * 🚀  I'm currently working on [Lofft](https://github.com/LofftApp)
 * 🧠  I'm learning React Native.
