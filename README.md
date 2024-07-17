@@ -21,6 +21,8 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 
 ### Latest certificates
 
+**Currently doing the web development bootcamp at Iron Hack Berlin**
+
 - "Understanding TypeScript by Maximilian Schwarzermüller"
 - "Next JS and OpenAI, by John Smilga, March.2024"
 - "Next JS: The Complete Developer's Guide" by Stephen Grider on Udemy, March.2024"
