@@ -1,7 +1,7 @@
 Hi 👋🏻 My name is José Copeti
 ===============================================================================================================================================
 
-Frontend Developer. 
+Full Stack Developer. 
 ----------------------------
 
 Visit my blog - https://jrcopeti.hashnode.dev/
