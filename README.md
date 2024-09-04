@@ -7,7 +7,7 @@ Full Stack Developer.
 Visit my blog - https://jrcopeti.hashnode.dev/
 ----------------------------
 
-Frontend web developer diving deep into JavaScript, TypeScript, React and Next.js. While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling. 
+Full Stack web developer diving deep into TypeScript, React, Next.js and React Native. While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling. 
 
 With a diverse background - including a degree in Communcation and marketing, and the experience of owning a business in the hospitality industry - I bring a distinctive perspective to the table. This experience has allowed me to understand the importance of strategic design for user engagement and the impact of technology on businesses. 
 
@@ -21,9 +21,8 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 
 ### Latest certificates
 
-**Currently doing the web development bootcamp at Iron Hack Berlin**
-
-- "Understanding TypeScript by Maximilian Schwarzermüller"
+- "Web Development Course at Ironhack Berlin, August.2024"
+- "Understanding TypeScript by Maximilian Schwarzermüller May.2024"
 - "Next JS and OpenAI, by John Smilga, March.2024"
 - "Next JS: The Complete Developer's Guide" by Stephen Grider on Udemy, March.2024"
 - "The Ultimate React Course 2024" by Jonas Schmedtmann on Udemy, finished in February.2024
