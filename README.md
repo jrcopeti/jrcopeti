@@ -17,7 +17,7 @@ I really like to create beautiful and functional web applications that resonates
 
 I'm actively looking for a Frontend or Fullstack role. At the moment, I'm working with languages such as TypeScript, using React, but also have great interest in expading my skill set to other languages and frameworks. 
 
-I am deeply dedicated to programming and am thrilled to continue my journey in the tech industry. My goal is to join a team where I can grow and learn from others, while also contributing with my own knowledge and experience. 
+I am deeply dedicated to programming and am thrilled to continue my journey in the tech industry. My goal is to join a team where I can grow and learn from others, while also contributing with my own knowledge and experiences. 
 
 ### Latest certificates
 
