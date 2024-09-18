@@ -1,10 +1,7 @@
 Hi 👋🏻 My name is José Copeti
 ===============================================================================================================================================
 
-Full Stack Developer. 
-----------------------------
-
-Visit my blog - https://jrcopeti.hashnode.dev/
+Frontend Developer. 
 ----------------------------
 
 Full Stack web developer diving deep into TypeScript, React, Next.js and React Native. While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling. 
