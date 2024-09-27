@@ -1,10 +1,10 @@
 Hi 👋🏻 My name is José Copeti
 ===============================================================================================================================================
 
-Frontend Developer. 
+Full Stack Developer. 
 ----------------------------
 
-Frontend web developer diving deep into TypeScript, React, Next.js and React Native. While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling. 
+Full Stack web developer diving deep into TypeScript, React, Next.js, React Native, Node and Ruby on Rails. While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling. 
 
 With a diverse background - including a degree in Communcation and marketing, and the experience of owning a business in the hospitality industry - I bring a distinctive perspective to the table. This experience has allowed me to understand the importance of strategic design for user engagement and the impact of technology on businesses. 
 
@@ -24,13 +24,13 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 - "Next JS: The Complete Developer's Guide" by Stephen Grider on Udemy, March.2024"
 - "The Ultimate React Course 2024" by Jonas Schmedtmann on Udemy, finished in February.2024
 - "The Complete JavaScript Course 2023" by Jonas Schmedtmann on Udemy, finished in October.2023
+- "Full Stack Web Development bootcamp at Le Wagon Berlin, April 2023"
 
 ### Contact me
 
 * 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [jrcopeti@gmail.com](mailto:jrcopeti@gmail.com)
 * 🚀  I'm currently working on [Lofft](https://github.com/LofftApp)
-* 🧠  I'm learning React Native.
 * 🤝  I'm open to collaborating on diverse projects
 * ⚡  Good at the gym, great at videogames, awesome at the kitchen.
 
@@ -51,6 +51,9 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Reduxtoolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK%20Query-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 ![](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/React_Hook_Form-007ACC?style=for-the-badge&logo=react-hook-form&logoColor=white)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -61,21 +64,20 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 
-
-
-
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
-![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-AA2929?style=for-the-badge&logo=mongoose&logoColor=white)
+
 
 #### Backend
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### Tools
+![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-AA2929?style=for-the-badge&logo=mongoose&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/OpenAi-12000?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
