@@ -1,10 +1,10 @@
 Hi 👋🏻 My name is José Copeti
 ===============================================================================================================================================
 
-Full Stack Developer. 
+Frontend Developer. 
 ----------------------------
 
-Full Stack web developer diving deep into TypeScript, React, Next.js, React Native, Node and Ruby on Rails. While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling. 
+Frontend developer diving deep into TypeScript, React, Next.js, React Native, Node and Ruby on Rails. While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling. 
 
 With a diverse background - including a degree in Communcation and marketing, and the experience of owning a business in the hospitality industry - I bring a distinctive perspective to the table. This experience has allowed me to understand the importance of strategic design for user engagement and the impact of technology on businesses. 
 
@@ -29,7 +29,7 @@ I am deeply dedicated to programming and am thrilled to continue my journey in t
 ### Contact me
 
 * 🌍  I'm based in Berlin, Germany
-* ✉️  You can contact me at [jrcopeti@gmail.com](mailto:jrcopeti@gmail.com)
+* ✉️  You can contact me at [jose@lofft.app](mailto:jose@lofft.app)
 * 🚀  I'm currently working on [Lofft](https://github.com/LofftApp)
 * 🤝  I'm open to collaborating on diverse projects
 * ⚡  Good at the gym, great at videogames, awesome at the kitchen.
