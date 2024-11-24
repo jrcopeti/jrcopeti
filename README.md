@@ -1,7 +1,7 @@
 Hi 👋🏻 My name is José Copeti
 ===============================================================================================================================================
 
-Frontend Developer. 
+Frontend Developer
 ----------------------------
 
 Frontend developer diving deep into TypeScript, React, Next.js, React Native, Node and Ruby on Rails. While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling. 
