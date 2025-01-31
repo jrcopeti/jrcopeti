@@ -1,10 +1,10 @@
 Hi 👋🏻 My name is José Copeti
 ===============================================================================================================================================
 
-Frontend Developer
+Full Stack Developer
 ----------------------------
 
-Frontend developer diving deep into TypeScript, React, Next.js, React Native, Node and Ruby on Rails. While initially started my programming journey with backend development, later I switched to frontend development, where I found the right calling. 
+Full Stack developer diving deep into TypeScript, React, Next.js, React Native, Node and Ruby on Rails. While initially started my programming journey with backend development, later I switched to frontend development, exploring both sides successfully. 
 
 With a diverse background - including a degree in Communcation and marketing, and the experience of owning a business in the hospitality industry - I bring a distinctive perspective to the table. This experience has allowed me to understand the importance of strategic design for user engagement and the impact of technology on businesses. 
 
