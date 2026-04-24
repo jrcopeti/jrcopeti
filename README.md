@@ -6,11 +6,26 @@ I’ve worked across the stack (Node, Rails, GraphQL), enabling me to understand
 
 Currently at Aignostics, where I work on data-heavy applications, including a complex slide image viewer and an AI-powered search product—focusing on feature delivery, system reliability, and raising the quality bar through testing strategy, observability (Sentry, Better Stack), and developer tooling. 
 
+### 🚀 Selected Impact
+
+**Aignostics (Frontend Engineer)**
+- Improved test coverage from 0% → 95% (Vitest, Playwright)
+- Increased CI reliability by identifying and resolving flaky tests
+- Delivered UX improvements for data-heavy interfaces (filtering, persistent state, reusable patterns)
+- Diagnosed and fixed production issues (performance bottlenecks, network errors, observability gaps)
+
 Before that, I:
 
-- Led the frontend of a React Native app (Lofft)  
-- Built full-stack features and internal tools at Auxicare  
-- Mentored developers at Le Wagon  
+**Lofft (React Native)**
+- Led frontend development of MVP
+- Improved app responsiveness by ~30%
+- Reduced bug reports by ~70% through refactoring and testing
+
+**Auxicare (Fullstack)**
+- Built data scraping & ingestion pipeline (Node.js, Puppeteer)
+- Contributed to real-time features in caregiver app (Vue.js)
+
+- Mentored developers at Le Wagon
 
 ---
 
