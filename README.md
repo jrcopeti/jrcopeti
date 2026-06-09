@@ -1,10 +1,9 @@
 Hi 👋🏻 I’m José — a Software Engineer based in Berlin
 ===============================================================================================================================================
 
-I build modern web applications using TypeScript, React, and Next.js, with a strong focus on user experience, performance, and clean architecture. I actively use AI-assisted development (Claude Code, GitHub Copilot, agentic workflows) to speed up iteration, enhance debugging, and improve overall development velocity.
-I’ve worked across the stack (Node, Rails, GraphQL), enabling me to understand products end-to-end and collaborate effectively across frontend, backend, and product teams.
+I build modern web applications using TypeScript, React, and Next.js, with a strong focus on user experience, performance, and clean architecture. I actively use AI-assisted development (Claude Code, GitHub Copilot, agentic workflows) to speed up iteration, enhance debugging, and improve overall development velocity. I've worked across the stack (Node, Rails, GraphQL), which lets me understand products end-to-end and collaborate effectively across frontend, backend, and product teams.
 
-Currently at Aignostics, where I work on data-heavy applications, including a complex slide image viewer and an AI-powered search product—focusing on feature delivery, system reliability, and raising the quality bar through testing strategy, observability (Sentry, Better Stack), and developer tooling. 
+Currently at Aignostics, where I work on data-heavy applications including a complex slide image viewer and an AI-powered search product. I focus on feature delivery, system reliability, and raising the quality bar through testing strategy, observability (Sentry, Better Stack), and developer tooling.
 
 ### 🚀 Selected Impact
 
@@ -24,6 +23,8 @@ Before that, I:
 **Auxicare (Fullstack)**
 - Built data scraping & ingestion pipeline (Node.js, Puppeteer)
 - Contributed to real-time features in caregiver app (Vue.js)
+
+**Le Wagon (teacher)**
 
 - Mentored developers at Le Wagon
 
