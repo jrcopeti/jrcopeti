@@ -1,34 +1,11 @@
-Hi 👋🏻 I’m José — a Software Engineer based in Berlin
-===============================================================================================================================================
+Hi 👋🏻 I'm José, a Software Engineer based in Berlin
 
-I build modern web applications using TypeScript, React, and Next.js, with a strong focus on user experience, performance, and clean architecture. I actively use AI-assisted development (Claude Code, GitHub Copilot, agentic workflows) to speed up iteration, enhance debugging, and improve overall development velocity. I've worked across the stack (Node, Rails, GraphQL), which lets me understand products end-to-end and collaborate effectively across frontend, backend, and product teams.
+I build modern web applications with TypeScript, React and Next.js, focused on user experience, performance and clean architecture. I work agent-first: Claude Code, GitHub Copilot and agentic workflows are part of my daily toolkit, and I direct and review AI-generated code rather than paste it. I've worked across the stack (Node.js, Rails, GraphQL), which lets me understand products end to end and collaborate across frontend, backend and product.
 
-Currently at Aignostics, where I work on data-heavy applications including a complex slide image viewer and an AI-powered search product. I focus on feature delivery, system reliability, and raising the quality bar through testing strategy, observability (Sentry, Better Stack), and developer tooling.
+Most recently at Aignostics, building data-heavy applications including a whole-slide image viewer used by pathologists and an AI-powered search product. I focused on feature delivery, system reliability, and raising the quality bar through testing strategy, observability and developer tooling.
 
-### 🚀 Selected Impact
+Currently open to Frontend Engineer, Software Engineer and Full Stack roles in Berlin, hybrid or remote.
 
-**Aignostics (Frontend Engineer)**
-- Improved test coverage from 0% → 95% (Vitest, Playwright)
-- Increased CI reliability by identifying and resolving flaky tests
-- Delivered UX improvements for data-heavy interfaces (filtering, persistent state, reusable patterns)
-- Diagnosed and fixed production issues (performance bottlenecks, network errors, observability gaps)
-
-Before that, I:
-
-**Lofft (React Native)**
-- Led frontend development of MVP
-- Improved app responsiveness by ~30%
-- Reduced bug reports by ~70% through refactoring and testing
-
-**Auxicare (Fullstack)**
-- Built data scraping & ingestion pipeline (Node.js, Puppeteer)
-- Contributed to real-time features in caregiver app (Vue.js)
-
-**Le Wagon (teacher)**
-
-- Mentored developers at Le Wagon
-
----
 
 ### 🛠 Tech Stack
 
