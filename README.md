@@ -1,4 +1,4 @@
-Hi 👋🏻 I'm José, a Frontend AI Engineer based in Berlin
+Hi 👋🏻 I'm José, a Frontend Engineer & AI Engineer based in Berlin
 
 I build modern web applications with TypeScript, React and Next.js, focused on user experience, performance and clean architecture. I work agent-first: Claude Code, GitHub Copilot and agentic workflows are part of my daily toolkit, and I direct and review AI-generated code rather than paste it. I've worked across the stack (Node.js, Rails, GraphQL), which lets me understand products end to end and collaborate across frontend, backend and product.
 
