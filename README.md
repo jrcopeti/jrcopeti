@@ -1,10 +1,6 @@
-# Hi 👋🏻 I'm José, a Frontend & Full Stack Engineer 
+# Hi 👋🏻 I'm José, a Product & Full Stack Engineer 
 
-I build modern web applications with TypeScript, React and Next.js, focused on user experience, performance and clean architecture. I work agent-first: Claude Code, GitHub Copilot and agentic workflows are part of my daily toolkit, and I direct and review AI-generated code rather than paste it. I've worked across the stack (Node.js, Rails, GraphQL), which lets me understand products end to end and collaborate across frontend, backend and product.
-
-Most recently at Aignostics, building data-heavy applications including a whole-slide image viewer used by pathologists and an AI-powered search product. I focused on feature delivery, system reliability, and raising the quality bar through testing strategy, observability and developer tooling.
-
-Currently open to Frontend Engineer, Software Engineer and Full Stack roles, hybrid or remote.
+Product and Full Stack engineer based in Berlin, working AI-native. I build production web applications in React, TypeScript, Next.js and Node.js. Claude Code is my daily engineering tool: I direct the agent with a system workflow around it: prompt, harness, context, memory and loop. A better prompt improves one call, a better harness improves every run, and a better loop runs the work on a schedule.
 
 
 ### 🛠 Tech Stack
