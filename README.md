@@ -1,4 +1,4 @@
-# Hi 👋🏻 I'm José, a Product & Full Stack Engineer 
+# Hi 👋🏻 I'm José, a Product & Full Stack Engineer. 
 
 Product and Full Stack engineer based in Berlin, working AI-native. I build production web applications in React, TypeScript, Next.js and Node.js. Claude Code is my daily engineering tool: I direct the agent with a system workflow around it: prompt, harness, context, memory and loop. A better prompt improves one call, a better harness improves every run, and a better loop runs the work on a schedule.
 
